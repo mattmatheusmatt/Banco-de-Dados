@@ -10,3 +10,5 @@ Esse projeto é voltado para entender o básico sobre modelagem de dados. Ele va
 
 [Modelagem de Bancos de Dados sem Segredos](https://medium.com/@alberteije/modelagem-de-bancos-de-dados-sem-segredos-62f770130c61)
 'Esse texto faz parte de uma série de textos que está no medium'
+
+[Documentação do Projeto](https://www.youtube.com/playlist?list=PLP-YI_e9x5kcg1M-uzIpfg8_aS2tSrM0o)
